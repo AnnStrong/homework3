@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "дз продолжение базовые алгоритмы/1.0.0": {
+        "runtime": {
+          "дз продолжение базовые алгоритмы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "дз продолжение базовые алгоритмы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

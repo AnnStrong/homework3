@@ -1,0 +1,15 @@
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/bin/Debug/net7.0/дз продолжение базовые алгоритмы
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/bin/Debug/net7.0/дз продолжение базовые алгоритмы.deps.json
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/bin/Debug/net7.0/дз продолжение базовые алгоритмы.runtimeconfig.json
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/bin/Debug/net7.0/дз продолжение базовые алгоритмы.dll
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/bin/Debug/net7.0/дз продолжение базовые алгоритмы.pdb
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.csproj.AssemblyReference.cache
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.AssemblyInfoInputs.cache
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.AssemblyInfo.cs
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.csproj.CoreCompileInputs.cache
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.dll
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/refint/дз продолжение базовые алгоритмы.dll
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.pdb
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/дз продолжение базовые алгоритмы.genruntimeconfig.cache
+/Users/annagavrilenko/Desktop/дз продолжение базовые алгоритмы/obj/Debug/net7.0/ref/дз продолжение базовые алгоритмы.dll
